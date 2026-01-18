@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/zHtr3gp5/2026-01-16.png",
+    "title": "Mastering JavaScript ES6",
+    "author_img": "https://i.ibb.co.com/21ykFc4V/Gemini-Generated-Image-qyhsvuqyhsvuqyhs.png",
+    "author": "John Doe",
+    "post_date": "2026-01-15",
+    "reading_time": "5 ",
+    "hashtag": ["beginners", "es6"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/395VF3vb/Gemini-Generated-Image-93zev93zev93zev9.png",
+    "title": "Understanding Async/Await",
+    "author_img": "https://i.ibb.co.com/21ykFc4V/Gemini-Generated-Image-qyhsvuqyhsvuqyhs.png",
+    "author": "Jane Smith",
+    "post_date": "2026-01-12",
+    "reading_time": "7 ",
+    "hashtag": ["beginners", "es6"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/wj8KR79/Gemini-Generated-Image-jc2oyljc2oyljc2o.png",
+    "title": "Arrow Functions Explained",
+    "author_img": "https://i.ibb.co.com/21ykFc4V/Gemini-Generated-Image-qyhsvuqyhsvuqyhs.png",
+    "author": "Alice Johnson",
+    "post_date": "2026-01-10",
+    "reading_time": "4 ",
+    "hashtag": ["beginners", "es6"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/qY5Dyhrx/Gemini-Generated-Image-sk7f3usk7f3usk7f.png",
+    "title": "ES6 Template Literals",
+    "author_img": "https://i.ibb.co.com/21ykFc4V/Gemini-Generated-Image-qyhsvuqyhsvuqyhs.png",
+    "author": "Bob Williams",
+    "post_date": "2026-01-08",
+    "reading_time": "6 ",
+    "hashtag": ["beginners", "es6"]
+  }
+]
